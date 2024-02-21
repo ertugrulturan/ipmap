@@ -2,7 +2,6 @@ version = 1
 
 [[analyzers]]
 name = "go"
-enabled = true
 
   [analyzers.meta]
-  import_root = "github.com/sercanarga/ipmap"
+  import_root = "github.com/ertugrulturan/ipmap"
